@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CuteDoxCore_Example' do
+  pod 'CuteDoxCore', :path => '../'
+
+  target 'CuteDoxCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
