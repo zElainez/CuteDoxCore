@@ -1,0 +1,16 @@
+PODS:
+  - CuteDoxCore (0.1.0)
+
+DEPENDENCIES:
+  - CuteDoxCore (from `../`)
+
+EXTERNAL SOURCES:
+  CuteDoxCore:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CuteDoxCore: b1959614fe0af7bccebd3cdcb6823b043fa4d678
+
+PODFILE CHECKSUM: 600b68f88fbd06809967f0c75984aa93311ce037
+
+COCOAPODS: 1.4.0.beta.2

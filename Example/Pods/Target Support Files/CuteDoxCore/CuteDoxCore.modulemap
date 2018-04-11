@@ -1,0 +1,6 @@
+framework module CuteDoxCore {
+  umbrella header "CuteDoxCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

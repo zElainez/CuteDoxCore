@@ -33,7 +33,8 @@ TODO: Add long description of the pod here.
   s.source_files = 'CuteDoxCore/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'CuteDoxCore' => ['CuteDoxCore/Assets/*.png']
+  #   'CuteDoxCore' => ['CuteDoxCore/Assets/*.png'],
+  #   'LoginAndRegister' => ['LoginAndRegister/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
